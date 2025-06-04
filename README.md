@@ -1,8 +1,15 @@
 # 👩🏻‍💻 Alessa Kettney
 
+<img src="https://github.com/julianazanelatto/image_data_science/blob/main/data_science.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+
+<p align="left">
+
 **`Analista de dados`**
 
 Atualmente migrando para a área de Dados, com perfil analítico, técnico e autodidata.
+
+Cursando Sistemas para internet, no 3° período.
+Atualmente trabalho como Supervisora de Operações de uma telemarketing.
 
 Tenho facilidade com ferramentas como Excel, SQL e Python, e gosto de resolver problemas com lógica, clareza e autonomia.
 Busco oportunidades remotas e projetos que valorizem organização, entrega precisa e melhoria contínua.
@@ -52,4 +59,6 @@ Sou movida por aquela satisfação silenciosa de ver tudo se encaixando ✨
 />
 <br/>
 <br/>
+
+
 
